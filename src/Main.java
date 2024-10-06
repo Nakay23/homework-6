@@ -8,7 +8,7 @@ public class Main {
             System.out.println(o);
         }
 
-        for (int a = 0; a < 17; a = a + 2) {
+        for (int a = 0; a <= 17; a = a + 2) {
             System.out.println(a);
         }
 
